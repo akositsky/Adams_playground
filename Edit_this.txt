@@ -10,7 +10,12 @@ And correct typos
 Have fun :)
 
 äöåÄÖÅ
+^--- Letter work great now. 
 
+But I would need to find a way how to update using Matlab...
+
+
+Comments below: 
 
 
 
